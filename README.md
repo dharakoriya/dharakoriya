@@ -21,6 +21,6 @@ Swift learner, proficient in cultivating positive relationships and known for so
 consistently delivering on time.
 
  
-<h2>Quote of the Moment</h2>
+<h4>Quote of the Moment</h4>
 <h3 quote align='center'>"Walking on water and developing software from a specification are easy if both are frozen."</h3 quote>
 
