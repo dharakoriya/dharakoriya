@@ -20,4 +20,7 @@ solver, apt at collaborating with teams and key members to collect requirements 
 Swift learner, proficient in cultivating positive relationships and known for solid team collaborations while
 consistently delivering on time.
 
+ 
+<h2 align='center'>Quote of the Moment</h2>
+<h3 quote align='center'>Some Random Data!</h3 quote>
 
