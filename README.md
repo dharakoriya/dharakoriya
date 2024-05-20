@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **dharakoriya/dharakoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Pursuing a Bachelor’s of Technology in Information and Communication Technology. Creative problem
+solver, apt at collaborating with teams and key members to collect requirements and identify tasks.
+Swift learner, proficient in cultivating positive relationships and known for solid team collaborations while
+consistently delivering on time.
+
+
